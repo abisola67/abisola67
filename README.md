@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello 👋
+## Welcome To My Github Page
 
-<!--
-**abisola67/abisola67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+-  I’m Ajao Zainab, a Data analyst with an in-depth knowlege of database management, data visualization and report generation.
+-  I'm passionate about transforming complex data into comprehensible reports leading to effective decision making. 
+-  I’m open to collaborate on data analysis jobs and project that allow me to apply my skills and also demostrating proficiency in 
+     analytical techniques and collaborative approach to project.
+-  I have also got a strong critical thinking, solving problems and communication skills as well as the ability to work as team. 
+- 📫 How to reach me:
+       ajaoabisola44@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I enjoy sewing 
+
